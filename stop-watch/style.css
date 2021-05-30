@@ -1,0 +1,45 @@
+.container{
+    height: 300px;
+    width: 400px;
+    border: 1px solid  #aaaaaa;
+    box-sizing: border-box;
+  }
+  
+  .rowTop{
+    width: 400px;
+    height: 250px;
+    border: 1px solid #aaaaaa;
+    box-sizing: border-box;
+  }
+  
+  .rowBottom{
+    width: 400px;
+    height: 50px;
+    border: 1px solid #aaaaaa;
+    box-sizing: border-box;
+  }
+  
+  .start{
+    margin: 10px 10px 10px 10px;
+  }
+  .reset{
+    margin: 10px 10px 10px 10px;
+  }
+  
+  .output{
+    width: 80%;
+    height: 250px;
+    font-size: 70px;
+    margin: auto;
+    margin-top: 70px;
+  }
+  
+  .sample{
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  
+  
