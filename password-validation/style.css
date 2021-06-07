@@ -1,0 +1,14 @@
+.col {
+  display: inline-block;
+}
+.notselected {
+  height: 30px;
+  border: 1px solid #2222;
+}
+.container {
+  margin-top: 20px;
+}
+.selected {
+  background-color: plum;
+  text-decoration: line-through;
+}
